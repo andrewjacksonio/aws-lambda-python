@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AWS.iml" filepath="$PROJECT_DIR$/.idea/AWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CodilityTest/.idea/CodilityTest.iml" filepath="$PROJECT_DIR$/../CodilityTest/.idea/CodilityTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FirstProject/.idea/FirstProject.iml" filepath="$PROJECT_DIR$/../FirstProject/.idea/FirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HTTP/.idea/HTTP.iml" filepath="$PROJECT_DIR$/../HTTP/.idea/HTTP.iml" />
+    </modules>
+  </component>
+</project>
